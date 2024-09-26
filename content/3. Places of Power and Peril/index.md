@@ -1,0 +1,4 @@
+Throughout my journey, I’ve come across numerous locations that hold significance—whether as sites of great danger or sources of arcane power. Each place tells a story and poses its own challenges, and it is essential to document them for future reference. In this chapter, I will detail the places we've explored, noting their features, dangers, and any arcane phenomena I encounter.
+
+---
+- [Old Fort Skara](Old_Fort_Skara.md) - The eerie stronghold where our journey began.
