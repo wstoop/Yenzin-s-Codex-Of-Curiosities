@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Yenzin's Codex of Curiosities",
+    pageTitle: "Yenzin’s Tome of Travels",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

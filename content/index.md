@@ -1,5 +1,5 @@
 ---
-title: Yenzin’s Codex of Curiosities – Introduction
+title: Yenzin’s Tome of Travels – Introduction
 ---
 
 **Greetings, curious mind,**
