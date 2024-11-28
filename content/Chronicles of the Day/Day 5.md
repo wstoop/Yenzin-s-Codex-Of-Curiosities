@@ -1,0 +1,3 @@
+I overslept—my exhaustion finally caught up with me. While I recovered, the others ventured to a town called [[3.4 - Meris|Meris]]. From what I gathered, they encountered a group of vampire spawn or dhampir. [[3.4 - Meris|Meris]] seems to be a dead end for crossing the [[3.5 - Pythonian River|Pythonian River]]; no boats and plenty of sea serpents to discourage travel. The elves’ long-standing isolationism seems to have ensured that no one crosses the river easily.
+
+The party also met a blacksmith named [[2.3.1 - Kallix|Kallix]], who’s spoken of mass-producing flintlock guns—an idea both fascinating and potentially dangerous. I’ve yet to meet him myself, but it seems he’s joined our extended group.

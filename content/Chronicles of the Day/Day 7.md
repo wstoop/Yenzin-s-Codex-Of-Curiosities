@@ -1,0 +1,7 @@
+The road to the [[3.6 - Library Invocatus|Library]] brought us to [[3.7 - Hoppin|Hoppin]], a pirate town teeming with bandits and scammers. Naturally, [[2.1.3 - Captin'|Captin']] was in his element. He pickpocketed a random passerby, then bribed the same man with his own stolen belongings to guide us through the chaos.
+
+At the tavern, things got stranger. While [[2.1.3 - Captin'|Captin']] spoke with a shady figure, [[2.1.1 - Vivienne|Vivienne]] noticed a group leading our guide away and followed them. Meanwhile, [[2.1.2 - Eirha|Eirha]], [[2.1.3 - Captin'|Captin']], and I were approached by an old dwarf who invited us to a poker game. He spoke cryptically about our memory loss, calling us “Flame-Touched.” I’m still trying to decipher what that means.
+
+We were soon interrupted by [[2.1.1 - Vivienne|Vivienne’s]] pseudodragon, [[2.1.4 - Gluttox|Gluttox]], who summoned us to her side. She had tracked our guide to the mansion of [[5.4 - Hoppin Mafia Boss|Hoppin’s Mafia Boss]].
+
+Entering the mansion, we found [[5.4 - Hoppin Mafia Boss|the boss]] seated across from our guide. The tension in the room was palpable. It’s clear we’ve walked into something far bigger than just crossing the sea.
