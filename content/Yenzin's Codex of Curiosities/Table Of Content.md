@@ -1,0 +1,36 @@
+- [[1.0 - Introduction | 1.0 - Arcane Musings & Magical Discoveries]]
+    - **1.1 - Spells**
+        - [[1.1.1 - Abjuration]]
+        - [[1.1.2 - Conjuration]]
+        - [[1.1.3 - Divination]]
+        - [[1.1.4 - Enchantment]]
+        - [[1.1.5 - Evocation]]
+        - [[1.1.6 - Illusion]]
+        - [[1.1.7 - Necromancy]]
+        - [[1.1.8 - Transmutation]]
+    - **1.2 - Artifacts**
+        - [[1.2.1 - Fates Card]]
+        - [[1.2.2 - Arcane Grimoir]]
+        - [[1.2.3 - Weapon of Warning]]
+        - [[1.2.4 - Gloves of Thievery]]
+        - [[1.2.5 - Armor of the Fallen]]
+- [[2.0 - Introduction | 2.0 - Curious Companions]]
+    - **2.1 - Companions**
+        - [[2.1.1 - Vivienne]]
+        - [[2.1.2 - Eirha]]
+        - [[2.1.3 - Captin']]
+        - [[2.1.4 - Gluttox]]
+    - **2.2 - Enemies**
+        - [[2.2.1 - Maryk]]
+    - **2.3 - Allies**
+        - [[2.3.1 - Kallix]]
+        - [[2.3.2 - Hasinne]]
+- [[3.0 - Introduction | 3.0 - Places of Power and Peril]]
+    - **3.1 - Towns and Cities**
+        - [[3.1.1 - Meris]]
+        - [[3.1.2 - Portwick]]
+        - [[3.1.3 - Library Invocatus]]
+        - [[3.1.4 - Hoppin]]
+    - **3.2 - Geographical Landmarks**
+        - [[3.2.1 - Old Fort Skara]]
+        - [[3.2.2 - Pythonian River]]

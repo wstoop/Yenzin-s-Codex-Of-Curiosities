@@ -1,4 +1,4 @@
-We just arrived in [[3.3 - Portwick|Portwick]], and something’s definitely wrong here. The whole town looks... sickly. It feels like the life is being drained out of it. The first person we ran into was a homeless dwarf named Yorvick, hanging around near the entrance. He gave us some useful info: we’re on The Isle, by the Pythodian Sea, and the nearest country is Valeria. This place is a wreck—definitely not just my imagination.
+We just arrived in [[3.1.2 - Portwick|Portwick]], and something’s definitely wrong here. The whole town looks... sickly. It feels like the life is being drained out of it. The first person we ran into was a homeless dwarf named Yorvick, hanging around near the entrance. He gave us some useful info: we’re on The Isle, by the Pythodian Sea, and the nearest country is Valeria. This place is a wreck—definitely not just my imagination.
 
 First stop: the Tuna Inn. Weird moment when the lady at the bar gave me a strange look. No clue why, but I’m keeping my eye on her.
 
@@ -8,7 +8,7 @@ Later, [[2.1.1 - Vivienne|Vivienne]], [[2.1.3 - Captin'|Captin']], and I went do
 
 [[2.1.2 - Eirha|Eirha]] mentioned a strange dream last night, but she seemed too tired to explain it clearly. There's something off about this place, more than just the creepy atmosphere.
 
-The next day, we met the mayor. Can’t remember his name, but he didn’t seem all that impressive. He did, however, ask us to figure out why supply carts on the road to [[3.3 - Portwick|Portwick]] keep getting attacked. He was wearing this really fancy ring—looked way too important for someone like him. Something feels off about it.
+The next day, we met the mayor. Can’t remember his name, but he didn’t seem all that impressive. He did, however, ask us to figure out why supply carts on the road to [[3.1.2 - Portwick|Portwick]] keep getting attacked. He was wearing this really fancy ring—looked way too important for someone like him. Something feels off about it.
 
 We followed the lead and found these strange tree creatures. At first, they just seemed like twisted guardians of the woods, but after we dealt with them, we discovered they were being controlled by something darker—an undead creature. It said it wanted to reclaim the forest from the people of Portwick, not just for revenge, but for something sacred.
 
